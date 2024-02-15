@@ -40,7 +40,7 @@ const Menu = async () => {
             <thead>
               <tr>
                 <th>No</th>
-                <th>Nama MEnu</th>
+                <th>Nama Menu</th>
                 <th>Harga</th>
                 <th>Deskripsi</th>
                 <th>Jenis Id</th>
